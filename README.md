@@ -1,4 +1,5 @@
-![My stats](https://github-readme-stats.vercel.app/api?username=saiv46&theme=dark&show_icons=true)
+![](https://github.com/saiv46/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/saiv46/github-stats/blob/master/generated/languages.svg)
 
 ```
 Ex: Big boy with Github account. Take that off, what are you?
