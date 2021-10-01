@@ -8,4 +8,4 @@ Me: Student, fullstack developer, enthusiast.
 
 I'm also available at Discord `Saiv46#7203` and Matrix [@saiv46:tomesh.net](https://matrix.to/#/@saiv46:tomesh.net).
 
-Please don't contact me on [Telegram](https://t.me/Saiv46) or [VKontakte](https://vk.com/saiv46) unless it's urgent.
+Please don't contact me on [VKontakte](https://vk.com/saiv46) unless it's urgent.
