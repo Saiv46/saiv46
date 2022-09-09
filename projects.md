@@ -1,39 +1,47 @@
-## Offline
+# Offline
 
-### Social
+## Social
 * [VK Lite](vk-lite) - VKontakte alternative frontend
 
-### Gaming
+## Gaming
 * [Deceptive Bliss](Code-Name-Natsuki) - Natsuki story mod
 * [Donoschik](Roblox-Donoschik) - Roblox anticheat
 * [Sayo-Nara](Sayo-Nara) - Don't talk about it
 * [DDLC2](ddlc2-website) - Website for DDLC Extended
 
-### Services
+## Services
 * [UTix](utix) - Virtual-only payment system
 * [NIMTel](NimTel) - ATM but for NIMIQ/Rubles
 * [Another Asynchonous Web Chat](aawc) - HTML5-only chat ...served by NodeJS
 
-### Utilities
+## Utilities
 * [jPickler](jpickler) - Pickler python library but JS
 * [OTPapp](otp-app) - TOTP authorization
 * [Uploader.js](uploader) - Library for easy uploading of whole directories
 * [Yggdrasil Admin UI](yggdrasil-admin-ui) - Web UI for Yggdrasil node
 
-## GitHub
+# GitHub
+
+![](https://avatars.githubusercontent.com/u/50524016?s=64&v=4) [Cinnamon Project](https://github.com/cinnamon-project) | 
+![](https://avatars.githubusercontent.com/u/95189874?s=64&v=4) [Cupcake Team](https://github.com/CupCake-Team) | 
+![](https://avatars.githubusercontent.com/u/69382297?s=64&v=4) [MIE Group](https://github.com/MIEFoundation) | 
+![](https://avatars.githubusercontent.com/u/36029883?s=64&v=4) [NectarJS](https://github.com/NectarJS) | 
+![](https://avatars.githubusercontent.com/u/77224881?s=64&v=4) [NetheriteJS](https://github.com/NetheriteJS)
+
+-----------
 
 * [Saiv46](https://github.com/Saiv46/saiv46) - README of GitHub profile
 * - [GitHub Stats](https://github.com/Saiv46/github-stats) - Stats for GitHub profile **\[FORK\]**\
 * [WebPainter V0](https://github.com/Saiv46/webpainter-v0) - Web-based painter app **\[ARCHIVE\]**
 
-### Internet
+## Internet
 * [Matrix.to](https://github.com/Saiv46/matrix.to) - Redirecting service **\[FORK\]**
 * [Yggdrasil-JS](https://github.com/Saiv46/yggdrasil-js) - Mesh network implementation in NodeJS
 * - [Ironwood](https://github.com/Saiv46/ironwood) - Experimental network routing library **\[FORK\]**
 * - [yggdrasil-network.github.io](https://github.com/Saiv46/yggdrasil-network.github.io) - Little changes on website **\[FORK\]**
 * * [Bittorrent](https://github.com/Saiv46/bittorrent.org) - Bittorrent specifications **\[FORK\]**
 
-### Social
+## Social
 * [Natribu/NEXT](https://github.com/Saiv46/next.natribu.org) - НАХУЙ website but improved
 * [MIE Bridge](https://github.com/MIEFoundation/bridge) - Multiplatform chat bridge
 * [MIE Content Reaper](https://github.com/MIEFoundation/content-reaper) - Fast content reuploading
@@ -44,7 +52,7 @@
 * [MIE VK Dokibots](https://github.com/MIEFoundation/vk-dokibots) - Doki bot accounts
 * [MIE VK Webhook](https://github.com/MIEFoundation/vk-webhook) - Wall posts on Discord
 
-### Gaming
+## Gaming
 * [Nepethe Multiplayer](https://github.com/Saiv46/gdtnm) - Game Dev Tycoon mod server **\[ARCHIVE\]**
 * [GuestPlay](https://github.com/Saiv46/GuestPlay) - play on Roblox as Guest **\[ARCHIVE\]**
 #### Minecraft
@@ -58,7 +66,7 @@
 * - [Sayori.app Backend](https://github.com/cinnamon-project/backend) - Server and AI processing
 * - [Sayori.app Legacy](https://github.com/cinnamon-project/legacy-app) - Old web app **\[ARCHIVE\]**
 
-### Utilities
+## Utilities
 * [images-grabber-promise](https://github.com/Saiv46/images-grabber-promise) - Promise wrapper for CLI
 * - [images-grabber](https://github.com/Saiv46/images-grabber) - CLI for stealing images **\[FORK\]**
 * [NodeThanos](https://github.com/Saiv46/node-thanos) - Library/CLI for removing unused Minecraft chunks **\[ARCHIVE\]**
@@ -73,3 +81,19 @@
 * - [Node-Protodef](https://github.com/Saiv46/node-protodef) - Reference NodeJS implementation **\[FORK\]**
 * - [Node-ProtodefC](https://github.com/Saiv46/node-protodefc) - NodeJS + Rust implementation **\[FORK\]**
 * - [ProtoDef NEO](https://github.com/Saiv46/node-protodef-neo) - Alternative NodeJS implementation
+
+# Ideas
+* Помощник (помощник.рф)
+* Noune Network - Yggdrasil-based mesh network
+* - YggdrasilSetup - User-friendly Yggdrasil configurer
+* OS3 - Web-based fast and lightweight OS
+* - Desktop Environment
+* - SDK and App Store
+* - Advertisment
+* - (Micro)Kernel
+
+### Projects 101
+> 1) Он уникальный. Такого проекта не существует в сети.
+> 2) Им хочется пользоваться, по-крайней мере, самому разработчику этого проекта.
+> 3) Профессиональный рост. Проект должен помогать развиваться в определенных сферах.
+> 4) Проект можно монетизировать и есть понимание, как им могут пользоваться другие люди.
