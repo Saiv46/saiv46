@@ -1,5 +1,6 @@
 # GitHub
 
+![](https://avatars.githubusercontent.com/u/32214751?s=64&v=4) [Tix](https://github.com/tix-payments) | 
 ![](https://avatars.githubusercontent.com/u/50524016?s=64&v=4) [Cinnamon Project](https://github.com/cinnamon-project) | 
 ![](https://avatars.githubusercontent.com/u/95189874?s=64&v=4) [Cupcake Team](https://github.com/CupCake-Team) | 
 ![](https://avatars.githubusercontent.com/u/69382297?s=64&v=4) [MIE Group](https://github.com/MIEFoundation) | 
@@ -71,7 +72,7 @@
 * [DDLC2](ddlc2-website) - Website for DDLC Extended
 
 ## Services
-* [UTix](utix) - Federated payment system
+* [Tix](tix) - Federated payment system
 * [NIMTel](NimTel) - ATM but for NIMIQ/Rubles
 * [Another Asynchonous Web Chat](https://github.com/Saiv46/aawc) - HTML5-only chat ...served by NodeJS
 
