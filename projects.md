@@ -1,25 +1,3 @@
-# Offline
-
-## Social
-* [VK Lite](vk-lite) - VKontakte alternative frontend
-
-## Gaming
-* [Deceptive Bliss](Code-Name-Natsuki) - Natsuki story mod
-* [Donoschik](Roblox-Donoschik) - Roblox anticheat
-* [Sayo-Nara](Sayo-Nara) - Don't talk about it
-* [DDLC2](ddlc2-website) - Website for DDLC Extended
-
-## Services
-* [UTix](utix) - Virtual-only payment system
-* [NIMTel](NimTel) - ATM but for NIMIQ/Rubles
-* [Another Asynchonous Web Chat](aawc) - HTML5-only chat ...served by NodeJS
-
-## Utilities
-* [jPickler](jpickler) - Pickler python library but JS
-* [OTPapp](otp-app) - TOTP authorization
-* [Uploader.js](uploader) - Library for easy uploading of whole directories
-* [Yggdrasil Admin UI](yggdrasil-admin-ui) - Web UI for Yggdrasil node
-
 # GitHub
 
 ![](https://avatars.githubusercontent.com/u/50524016?s=64&v=4) [Cinnamon Project](https://github.com/cinnamon-project) | 
@@ -81,6 +59,26 @@
 * - [Node-Protodef](https://github.com/Saiv46/node-protodef) - Reference NodeJS implementation **\[FORK\]**
 * - [Node-ProtodefC](https://github.com/Saiv46/node-protodefc) - NodeJS + Rust implementation **\[FORK\]**
 * - [ProtoDef NEO](https://github.com/Saiv46/node-protodef-neo) - Alternative NodeJS implementation
+
+# Offline
+
+## Social
+* [VK Lite](vk-lite) - VKontakte alternative frontend
+
+## Gaming
+* [Deceptive Bliss](Code-Name-Natsuki) - Natsuki story mod
+* [Sayo-Nara](Sayo-Nara) - Don't talk about it
+* [DDLC2](ddlc2-website) - Website for DDLC Extended
+
+## Services
+* [UTix](utix) - Federated payment system
+* [NIMTel](NimTel) - ATM but for NIMIQ/Rubles
+* [Another Asynchonous Web Chat](https://github.com/Saiv46/aawc) - HTML5-only chat ...served by NodeJS
+
+## Utilities
+* [jPickler](jpickler) - Pickler python library but JS
+* [OTPapp](otp-app) - TOTP authorization
+* [Uploader.js](uploader) - Library for easy uploading of whole directories
 
 # Ideas
 * Помощник (помощник.рф)
