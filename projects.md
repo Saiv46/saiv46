@@ -4,8 +4,8 @@
 ![](https://avatars.githubusercontent.com/u/50524016?s=64&v=4) [Cinnamon Project](https://github.com/cinnamon-project) | 
 ![](https://avatars.githubusercontent.com/u/95189874?s=64&v=4) [Cupcake Team](https://github.com/CupCake-Team) | 
 ![](https://avatars.githubusercontent.com/u/69382297?s=64&v=4) [MIE Group](https://github.com/MIEFoundation) | 
-![](https://avatars.githubusercontent.com/u/36029883?s=64&v=4) [NectarJS](https://github.com/NectarJS) | 
-![](https://avatars.githubusercontent.com/u/77224881?s=64&v=4) [NetheriteJS](https://github.com/NetheriteJS)
+![](https://avatars.githubusercontent.com/u/36029883?s=64&v=4) [NectarJS](https://github.com/NectarJS)
+<!-- ![](https://avatars.githubusercontent.com/u/77224881?s=64&v=4) [NetheriteJS](https://github.com/NetheriteJS) -->
 
 -----------
 
@@ -26,7 +26,7 @@
 * [MIE Content Reaper](https://github.com/MIEFoundation/content-reaper) - Fast content reuploading
 #### VKontakte
 * [VkOpt](https://github.com/Saiv46/VkOpt) - outdated VK plugin **\[FORK\]**
-* [VKontakte UberBlock](https://github.com/Saiv46/vkub) - make blocked people disappear
+* [VKontakte UberBlock](https://github.com/Saiv46/vkub) - make blocked people disappear **\[ARCHIVE\]**
 * [MIE VK Tools](https://github.com/MIEFoundation/vk-tools) - Tools for MIE group
 * [MIE VK Dokibots](https://github.com/MIEFoundation/vk-dokibots) - Doki bot accounts
 * [MIE VK Webhook](https://github.com/MIEFoundation/vk-webhook) - Wall posts on Discord
@@ -59,7 +59,7 @@
 * - [ProtoDef Extensions](https://github.com/Saiv46/protodef-extensions) - Specification extensions **\[ARCHIVE\]**
 * - [Node-Protodef](https://github.com/Saiv46/node-protodef) - Reference NodeJS implementation **\[FORK\]**
 * - [Node-ProtodefC](https://github.com/Saiv46/node-protodefc) - NodeJS + Rust implementation **\[FORK\]**
-* - [ProtoDef NEO](https://github.com/Saiv46/node-protodef-neo) - Alternative NodeJS implementation
+* - [ProtoDef NEO](https://github.com/Saiv46/node-protodef-neo) - Alternative implementation
 
 # Offline
 
