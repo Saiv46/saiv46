@@ -6,4 +6,4 @@ Ex: Big boy with Github account. Take that off, what are you?
 Me: Student, fullstack developer, enthusiast.
 ```
 
-I'm also available at Discord `Saiv46#7203` and Matrix [@saiv46:tomesh.net](https://matrix.to/#/@saiv46:tomesh.net).
+For contacts see [Keyoxide](https://keyoxide.org/23eed7b0e4f82bc55e71819a95577b117e4d455a) (GPG `23eed7b0e4f82bc55e71819a95577b117e4d455a`)
