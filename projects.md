@@ -4,20 +4,20 @@
 ![](https://avatars.githubusercontent.com/u/50524016?s=64&v=4) [Cinnamon Project](https://github.com/cinnamon-project) | 
 ![](https://avatars.githubusercontent.com/u/95189874?s=64&v=4) [Cupcake Team](https://github.com/CupCake-Team) | 
 ![](https://avatars.githubusercontent.com/u/69382297?s=64&v=4) [MIE Group](https://github.com/MIEFoundation) | 
-![](https://avatars.githubusercontent.com/u/36029883?s=64&v=4) [NectarJS](https://github.com/NectarJS)
-<!-- ![](https://avatars.githubusercontent.com/u/77224881?s=64&v=4) [NetheriteJS](https://github.com/NetheriteJS) -->
+![](https://avatars.githubusercontent.com/u/36029883?s=64&v=4) [NectarJS](https://github.com/NectarJS) | 
+![](https://avatars.githubusercontent.com/u/77224881?s=64&v=4) [NetheriteJS](https://github.com/NetheriteJS)
 
 -----------
 
 * [Saiv46](https://github.com/Saiv46/saiv46) - README of GitHub profile
-* - [GitHub Stats](https://github.com/Saiv46/github-stats) - Stats for GitHub profile **\[FORK\]**\
+* - [GitHub Stats](https://github.com/Saiv46/github-stats) - Stats for GitHub profile **\[FORK\]**
 * [WebPainter V0](https://github.com/Saiv46/webpainter-v0) - Web-based painter app **\[ARCHIVE\]**
 
 ## Internet
-* [Matrix.to](https://github.com/Saiv46/matrix.to) - Redirecting service **\[FORK\]**
+* ~~Matrix.to - Redirecting service **\[FORK\]**~~
 * [Yggdrasil-JS](https://github.com/Saiv46/yggdrasil-js) - Mesh network implementation in NodeJS
-* - [Ironwood](https://github.com/Saiv46/ironwood) - Experimental network routing library **\[FORK\]**
-* - [yggdrasil-network.github.io](https://github.com/Saiv46/yggdrasil-network.github.io) - Little changes on website **\[FORK\]**
+* ~~- Ironwood - Experimental network routing library **\[FORK\]**~~
+* ~~- yggdrasil-network.github.io - Little changes on website **\[FORK\]**~~
 * * [Bittorrent](https://github.com/Saiv46/bittorrent.org) - Bittorrent specifications **\[FORK\]**
 
 ## Social
@@ -36,7 +36,7 @@
 * [GuestPlay](https://github.com/Saiv46/GuestPlay) - play on Roblox as Guest **\[ARCHIVE\]**
 #### Minecraft
 * [Disco Dragon](https://github.com/NetheriteJS/disco-dragon) - TypeScript Minecraft server
-* [Flying Squid](https://github.com/Saiv46/flying-squid) - NodeJS Minecraft server **\[FORK\]**
+* ~~Flying-Squid - NodeJS Minecraft server **\[FORK\]**~~
 #### DDLC
 * [Whorika Clicker](https://github.com/MIEFoundation/whorika-clicker) - VK idle game
 * [DDLC Extended](https://github.com/Saiv46/DDLCExtended) - DDLC but better
@@ -57,7 +57,7 @@
 #### ProtoDef
 * [ProtoDef](https://github.com/Saiv46/ProtoDef) - Protocol specification **\[FORK\]**
 * - [ProtoDef Extensions](https://github.com/Saiv46/protodef-extensions) - Specification extensions **\[ARCHIVE\]**
-* - [Node-Protodef](https://github.com/Saiv46/node-protodef) - Reference NodeJS implementation **\[FORK\]**
+* - ~~Node-Protodef - Reference NodeJS implementation **\[FORK\]**~~
 * - [Node-ProtodefC](https://github.com/Saiv46/node-protodefc) - NodeJS + Rust implementation **\[FORK\]**
 * - [ProtoDef NEO](https://github.com/Saiv46/node-protodef-neo) - Alternative implementation
 
