@@ -3,7 +3,7 @@
 
 #### Contacts
 [![Matrix](https://img.shields.io/badge/matrix-@saiv46:envs.net-3C3C3D?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@saiv46:envs.net)
-[![Mastodon](https://img.shields.io/badge/mastodon-saiv46@c.im-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://c.im/@saiv46)
+[![Mastodon](https://img.shields.io/badge/mastodon-saiv46@zhub.link-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://zhub.link/@saiv46)
 [![Discord](https://img.shields.io/badge/Discord-Saiv46%237203-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/392542719714525186)
 
 #### Tech
