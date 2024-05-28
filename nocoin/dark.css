@@ -1,0 +1,186 @@
+/*
+ * CSS variables
+ * Used for theming
+ */
+:root {
+  --background: #111;
+  --background-accent: #222;
+  --color: #eee;
+  --button: '☀';
+  --button-color: #000;
+  --button-background: #eee;
+  --navigation: #000;
+  --navigation-hover: #111;
+  --nocoin: green;
+}
+
+/*
+ * Global CSS declarations
+ */
+body {
+  margin: 3rem;
+  padding: 0 10vh;
+  color: var(--color);
+  background: var(--background);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  font-family: Open Sans, sans-serif;
+  hyphens: auto;
+}
+
+/*
+ * Big ₦ in the background
+ */
+body:before {
+  position: absolute;
+  z-index: -1;
+  content: '₦';
+  color: var(--background-accent);
+  rotate: -15deg;
+  line-height: 1;
+  font-size: 50vh;
+  top: 0;
+  left: 5rem;
+}
+
+/*
+ * NAVIGATION START
+ */
+body > table:first-of-type {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  background: var(--navigation);
+}
+
+body > table:first-of-type tr {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
+
+body > table:first-of-type td {
+  flex: 1;
+  padding: 0;
+  text-align: center;
+  transition: .2s ease background;
+
+}
+body > table:first-of-type td:hover {
+  background: var(--navigation-hover);
+}
+
+body > table:first-of-type a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+  display: inline-block;
+  padding: .5em 0;
+}
+/*
+ * NAVIGATION END
+ */
+
+/*
+ * "Bookmark" theme button
+ */
+.right {
+  cursor: grab;
+  float: right;
+  font-size: 0;
+  width: 3rem;
+  height: 6rem;
+  background: var(--button-background);
+  border: none;
+  border-radius: 6px;
+  position: sticky;
+  top: 0rem;
+  margin-top: -3rem;
+  transition: .2s ease-in top;
+  margin-right: -3rem;
+}
+
+.right:after {
+  display: inline-block;
+  font-size: 2rem;
+  color: var(--button-color);
+  content: var(--button);
+  rotate: -15deg;
+  margin-top: 3rem;
+}
+
+.right:hover {
+  top: 1rem;
+}
+
+/*
+ * HEADER START
+ */
+body > center:first-of-type {
+  margin: 10vh 0;
+}
+
+h1 {
+  font-weight: lighter;
+}
+
+body > p:nth-of-type(2) {
+ margin-bottom: 10vh;
+}
+/*
+ * HEADER END
+ */
+
+/*
+ * Color invertion of bold text
+ * "filter: invert()" doesn't affect background
+ */
+body > p b {
+  background: var(--color);
+  color: var(--background);
+}
+
+/*
+ * Getting free NoCoin must be more exciting
+ * Green color will do
+ */
+pre {
+  color: var(--nocoin);
+}
+
+/*
+ * Fact list is full of NoCoin advantages
+ * Why not mark them as such?
+ */
+ul {
+ list-style-type: "✔ ";
+}
+
+/*
+* Comparison table
+*/
+center table {
+  table-layout: fixed;
+}
+
+center tr:nth-child(odd) {
+  background: var(--background-accent);
+}
+
+center td {
+  padding: .5em;
+}
+
+/*
+ * Here's 100 NoCoin to you, the reader of this source code.
+
++-----------------+
+|       ₦100      |
+|   One Hundred   |
+|      NoCoin     |
++-----------------+
+
+ */
