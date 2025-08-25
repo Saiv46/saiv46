@@ -2,9 +2,11 @@
 
 **Contact me at**
 
-[![Matrix](https://img.shields.io/badge/matrix-@saiv46:envs.net-3C3C3D?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@saiv46:envs.net)
+[![Matrix](https://img.shields.io/badge/matrix-@saiv46:mie.foundation-3C3C3D?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@saiv46:mie.foundation)
 [![Telegram](https://img.shields.io/badge/Telegram-@saiv46-%230DB7ED.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saiv46)
 [![Mastodon](https://img.shields.io/badge/mastodon-saiv46@zhub.link-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://zhub.link/@saiv46)
+
+Other contacts and fun stuff at [sayori.dev](https://sayori.dev)
 
 **I do this**
 
@@ -29,7 +31,4 @@
 ![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=c8c9cb)
 ![Svelte](https://img.shields.io/badge/svelte-F1413D?style=for-the-badge&logo=svelte&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/dialogflow-E86900?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
